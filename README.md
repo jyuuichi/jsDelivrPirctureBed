@@ -1,2 +1,1 @@
-"# jsDelivrPirctureBed" 
-"# jsDelivrPirctureBed" 
+# jsDelivr 图床

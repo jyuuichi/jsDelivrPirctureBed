@@ -1,1 +1,1 @@
-# jsDelivr 图床
+# jsDelivr 静态资源
